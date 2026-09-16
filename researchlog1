@@ -1,0 +1,9 @@
+## Initial AlphaFold exploration
+
+- Opened the AlphaFold Protein Structure Database.
+- Searched for UniProt accession P68871.
+- Confirmed the human hemoglobin subunit beta entry.
+- Observed the predicted 3D ribbon structure.
+- Observed a PAE heatmap and a pLDDT confidence legend.
+- The displayed model contains residues 1–147.
+- Saved an initial screenshot for later analysis.
