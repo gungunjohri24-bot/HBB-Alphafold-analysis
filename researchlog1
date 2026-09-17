@@ -7,3 +7,12 @@
 - Observed a PAE heatmap and a pLDDT confidence legend.
 - The displayed model contains residues 1–147.
 - Saved an initial screenshot for later analysis.
+## day 3
+
+## Day 3 — Understanding pLDDT
+
+- Reviewed the meaning of pLDDT in AlphaFold.
+- Learned that pLDDT ranges from 0 to 100 and represents predicted local structural confidence.
+- Documented the relationship between pLDDT values and AlphaFold colour coding.
+- Observed that the HBB model was predominantly blue, indicating high predicted local confidence across much of the structure.
+- Noted that pLDDT is not a direct measure of protein function, disease, disorder, or stability.
