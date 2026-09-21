@@ -24,6 +24,21 @@ Selected residues were examined across the HBB sequence to observe variation in 
  147  His  85.27 
 
 ## Initial observations
+#### Structural observations
+
+- Residue 1 (Met1): located at the N-terminal end, appears relatively extended/straight in the displayed model.
+- Residue 147 (His147): located at the C-terminal end, appears relatively extended/straight in the displayed model.
+- Residues 80–81: pLDDT increases from 91.56 at residue 80 to 95.50 at residue 81.
+  The surrounding structure of 80 and 81 contains predominantly helical regions with curved connector/loop-like segments.
+
+
+
+
+
+
+
+
+
 
 - Most sampled residues showed very high predicted confidence.
 - Met1 showed the lowest observed pLDDT at 61.09.
