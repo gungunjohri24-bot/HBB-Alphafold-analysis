@@ -24,9 +24,19 @@ In the next stage, I will compare the normal HBB sequence with the mutant sequen
 3. pLDDT around the mutation.
 4. Differences between the predicted normal and mutant structures.
 5. Changes in predicted confidence, if any.
-
 ## Important note
 
 The mutation is commonly called E6V because mature hemoglobin numbering excludes the initial methionine. In the 147-amino-acid P68871 reference sequence used in this project, the corresponding position is residue 7 (Glu → Val).
 
 These observations will not be treated as direct evidence of disease mechanism or protein stability.
+
+## Sequence verification
+
+The reference and mutant sequences differ at one amino-acid position:
+
+- Position 7: Glutamate (E) → Valine (V)
+- Reference: E7
+- Mutant: V7
+- Total sequence length: 147 amino acids
+- No other sequence differences were introduced.
+
